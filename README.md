@@ -32,7 +32,7 @@ from .operators import *
 #######################################
 
 import bpy
-#Rest of code / Resto de codigo
+#code
 
 ```
 
