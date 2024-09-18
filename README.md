@@ -1,9 +1,9 @@
 # Reload Scripts
-Reloads all installed scripts (official, community and user).
-User scripts must have __init__.py at the beginning of their file:
+Reloads all installed scripts (official, community and user ... including panels).
+User scripts must have \_\_init\_\_.py at the beginning of their file:
 
-Recarga todos los script instalados (oficiales, comunidad y usuario).
-Los scripts de ususario deben tener en el inicio de su archivo __init__.py:
+Recarga todos los script instalados (oficiales, comunidad y usuario ... incluído paneles!).
+Los scripts de ususario deben tener en el inicio de su archivo \_\_init\_\_.py:
 
 ```python
 #bl_info = {}
