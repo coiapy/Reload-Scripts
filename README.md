@@ -41,6 +41,7 @@ import bpy
 2. Enable the Add-on
 # Usage
 "location": "View3D > UI > Tool > Reloads Scripts"
+![imagen](https://github.com/coiapy/Reload-Scripts/blob/main/reload_scripts.png)
 
 # Tags
 #Blender #Python #scripts #addon
