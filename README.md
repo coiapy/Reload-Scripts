@@ -1,6 +1,7 @@
+# Reload Scripts
 Reloads all installed scripts
 
-# Reload Scripts
+## Reload Scripts
 Reloads all installed scripts (official, community and user ... including panels).
 User scripts must have \_\_init\_\_.py at the beginning of their file:
 
@@ -38,13 +39,13 @@ import bpy
 
 ```
 
-# Installation
+## Installation
 1. Edit -> Preferences -> Add-ons and click "Install"
 2. Enable the Add-on
-# Usage
+## Usage
 "location": "View3D > UI > Tool > Reloads Scripts"
 
 ![imagen](https://github.com/coiapy/Reload-Scripts/blob/main/reload_scripts.png)
 
-# Tags
+## Tags
 #Blender #Python #scripts #addon
