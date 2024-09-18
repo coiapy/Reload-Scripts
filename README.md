@@ -1,8 +1,9 @@
 # Reload Scripts
 Reloads all installed scripts (official, community and user).
-User scripts must have __init__.py at the beginning of their file
+User scripts must have __init__.py at the beginning of their file:
+
 Recarga todos los script instalados (oficiales, comunidad y usuario).
-Los scripts de ususario deben tener en el inicio de su archivo __init__.py
+Los scripts de ususario deben tener en el inicio de su archivo __init__.py:
 
 ```python
 #bl_info = {}
@@ -20,11 +21,13 @@ if "bpy" in locals():
 
 
 #######################################
-##Each imported file must be done like this:
+#Each imported file must be done like this:
 #Cada archivo importado debe hacerse de esta forma:
-#from .file import * 
+#from .file import *
+
 from .panels import *
 from .operators import *
+
 # ...
 #######################################
 
