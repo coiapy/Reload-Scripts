@@ -1,3 +1,5 @@
+Reloads all installed scripts
+
 # Reload Scripts
 Reloads all installed scripts (official, community and user ... including panels).
 User scripts must have \_\_init\_\_.py at the beginning of their file:
